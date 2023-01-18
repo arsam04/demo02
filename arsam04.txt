@@ -1,2 +1,3 @@
 "hello from arsam04" 
 echo .DS_Store > .gitignore
+echo goodbye from arsam04 >> arsam04.txt

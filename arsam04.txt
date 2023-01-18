@@ -1,0 +1,2 @@
+"hello from arsam04" 
+echo .DS_Store > .gitignore
